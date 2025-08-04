@@ -28,6 +28,7 @@ proyecto-final/
 ##Instruccines de Ejecución
 
 Antes de ejecutar el proyecto:
+
 **Importante**: Se recomienda abrir el proyecto-final como raíz del proyecto. Si no se hace así, el código podría no ejecutarse correctamente debido a problemas con las rutas relativas.
 
 Pasos para ejecutar el proyecto:
