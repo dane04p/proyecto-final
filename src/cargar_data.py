@@ -43,7 +43,7 @@ print("\nPrimeras 10 filas del dataset: ")
 filas = big_frame.head(10)
 print(filas)
 
-#se vusualiza por medio de una grafica usando matplotlib la cantidad de países por región
+#se visualiza por medio de una grafica usando matplotlib la cantidad de países por región
 if 'Region' in big_frame.columns:
     big_frame['Region'].value_counts().plot(kind='bar')
     plt.title("Cantidad de paises por región")
