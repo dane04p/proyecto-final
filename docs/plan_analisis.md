@@ -22,10 +22,10 @@ Por lo que además de ser información muy versatil para la elaboración de dist
 <p>
 A través del presente análisis se pretenden responder las siguientes preguntas:
 
-**1.**	¿Cuáles son los 3 principales factores que influyen en el puntaje de felicidad de un país?
-**2.**	¿Existe una relación directa entre un mayor puntaje de felicidad y una mayor esperanza de vida?
-**3.**	¿Puede la percepción de la corrupción de un país tener efectos negativos en la felicidad de sus habitantes?
-**4.**	¿Cuáles son los países más felices dentro de la base de datos y qué factores explican esa felicidad?
+1.	¿Cuáles son los 3 principales factores que influyen en el puntaje de felicidad de un país?
+2.	¿Existe una relación directa entre un mayor puntaje de felicidad y una mayor esperanza de vida?
+3.	¿Puede la percepción de la corrupción de un país tener efectos negativos en la felicidad de sus habitantes?
+4.	¿Cuáles son los países más felices dentro de la base de datos y qué factores explican esa felicidad?
 </p>
 
 ####Hipótesis iniciales
