@@ -18,7 +18,7 @@ Por lo que además de ser información muy versatil para la elaboración de dist
 
 ### Plan de Análisis
 
-#### Preguntas de Investigación
+#### Preguntas de Investigación.
 <p>
 A través del presente análisis se pretenden responder las siguientes preguntas:
 
@@ -28,7 +28,7 @@ A través del presente análisis se pretenden responder las siguientes preguntas
 4.	¿Cuáles son los países más felices dentro de la base de datos y qué factores explican esa felicidad?
 </p>
 
-#### Hipótesis iniciales
+#### Hipótesis iniciales.
 <p>
 Con el objetivo de elaborar una base a partir de la cual comenzar a generar relaciones entre la variables y lograr comprender mejor los resultados, se planteó una hipótesis inicial para cada una de las preguntas que se desea contestar. Las cuales se enumeran a continuación:
 
@@ -38,7 +38,7 @@ Con el objetivo de elaborar una base a partir de la cual comenzar a generar rela
 4. Los países más felices de la base de datos son los que presentan un mayor PIB per capita.
 </p>
 
-#### Ejemplo de visualizaciones a utilizar
+#### Ejemplo de visualizaciones a utilizar.
 <p>
 Para generar un análisis completo de la información y lograr responder las preguntas planteadas se crearán distintas visualizaciones.
 
@@ -51,7 +51,7 @@ Por otro lado, con ***gráficos de barras*** se compararán las variables de per
 Finalmente, se pretende realizar un ***mapa geográfico*** donde a través de la coloración de los países se logre observar cuál es el orden de felicidad de estos. Y por medio de un ***gráfico radar*** determinar cuales son los factores que tienen una mayor influencia en dicha felicidad. Logrando determinar así si el factor número 1 es el PIB per capita tal como se esperaba.
 </p>
 
-#### Metodología
+#### Metodología.
 
 Para la ejecución del proyecto final se divide la metodología en x pasos:
 - Descarga y análisis de los datos: Se creará un código en Python que permita al usuario descargar, limpiar y realizar una exploración rápida de los tipos de datos y comportamiento de las variables.
@@ -59,7 +59,7 @@ Para la ejecución del proyecto final se divide la metodología en x pasos:
 - Elaboración de visualizaciones: Se probará si las visualizaciones planteadas brindan los resultados esperados por medio de la utilización de distintas librerias como Pandas, Matplotlib, Folium, etc.  Se agregará un análisis de cada uno de los gráficos y mapas elaborados.
 - Conclusiones: A partir de los resultados obtenidos se concluirá si las hipótesis planteadas se cumplen o no se cumplen y se responderá con base en los gráficos y mapas las preguntas elaboradas.
 
-#### Bibliografía
+#### Bibliografía.
 
 Global Burden of Disease Collaborative Network. (2025). Global burden of mental disorders in 204 countries and territories, 1990–2021: results from the Global Burden of Disease Study 2021. BMC Psychiatry, 25, Article — 06932. https://doi.org/10.1186/s12888-025-06932-y
 
