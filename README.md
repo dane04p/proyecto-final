@@ -15,25 +15,15 @@ Fuente: [World Happiness Report] (https://www.kaggle.com/datasets/unsdsn/world-h
 proyecto-final/
 
 ├── data/
-
 │ ├── 2015.csv
-
 │ ├── 2016.csv
-
 │ ├── 2017.csv
-
 │ ├── 2018.csv
-
 │ └── 2019.csv
-
 ├── src/
-
 │ └── cargar_data.py
-
 ├── docs/
-
 │ └── plan_analisis.md
-
 ├── README.md
 
 ## Instruccines de Ejecución
