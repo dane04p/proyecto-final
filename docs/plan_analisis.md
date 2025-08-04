@@ -11,7 +11,7 @@ Para el siguiente proyecto se eligió el dataset: Reporte Mundial de Felicidad. 
 
 La cual a través de su contenido permite acceder a distintas variables como lo son: el puntaje de felicidad, el PIB per cápita, apoyo social o familia, la esperanza de vida entre otros.
 
-Indicadores que al correlacionarlos contra el puntaje de felicidad pueden brindar información de mucho valor para el desarollo social, político y psicológico de una nación. Lo que lo convierte en un tema de gran interés en la actualidad, en un mundo que presenta un aumento importante en la cantidad de enfermedades mentales (Global Burden of Disease Study, 2021).
+Indicadores que al correlacionarlos contra el puntaje de felicidad pueden brindar información de mucho valor para el desarollo social, político y psicológico de una nación. Lo que lo convierte en un tema de gran interés en la actualidad, en un mundo que presenta un aumento importante en la cantidad de enfermedades mentales (Global Burden of Disease Study, 2025S).
 
 Por lo que además de ser información muy versatil para la elaboración de distintos tipos de visualizaciones, también permite explorar diferentes escenarios y conocer por ejemplo cuáles son los principales indicadores que influyen en la felicidad de las personas, la lista de los paíces más felices e identificar que variable es la que tiene mayor impacto en dichas estadísticas.
 </p>
