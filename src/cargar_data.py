@@ -2,7 +2,7 @@ import glob
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#ruta donde se encuentran los archivos csv
+#ruta donde se encuentran los archivos csv, importante clonar el proyecto en la raiz de la carpeta
 filenames = glob.glob("data/*.csv")
 
 archivos_csv = []
@@ -15,7 +15,7 @@ for filename in filenames:
     except Exception as e:
         print(f"Error al cargar: {filename} por: {e}")
         
-#se concatena todos los dataframes en uno solo   
+#se concatena todos los dataframes en uno solo para una mejor manipulación
 big_frame = pd.concat(archivos_csv, ignore_index=True)
 
 print(f"\nTotal de archivos procesados: {len(archivos_csv)}")
@@ -25,10 +25,10 @@ print("\nInfo del dataframe: ")
 info = big_frame.info()
 
 print("\nResumen estadístico: ")
-describe = big_frame.describe()
+describe = big_frame.describe() #muestra un resumen estadístico
 print(describe)
 
-forma = big_frame.shape
+forma = big_frame.shape #describe la forma o dimensiones del dataframe
 print(f"\nForma del dataframe: {forma}")
     
 print("\nTipos de datos: ")
