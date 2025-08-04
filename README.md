@@ -23,6 +23,10 @@ proyecto-final/
 ├── README.md
 
 ##Instruccines de Ejecución
+Antes de ejecutar el proyecto:
+**Importante**: Se recomienda abrir el proyecto-final como raíz del proyecto. Si no se hace así, el código podría no ejecutarse correctamente debido a problemas con las rutas relativas.
+
+Pasos para ejecutar el proyecto:
 1. Instalar las librerías: pandas (manipulación de datos) y matplotlib (gráfica)
 2. Para instalar pandas con el siguiente comando para Windows: pip install pandas
 3. Para instalar matplotlib con el siguiente comando para Windows: pip install matplotlib
