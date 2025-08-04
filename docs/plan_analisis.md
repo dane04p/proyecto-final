@@ -7,11 +7,11 @@
 ### Justificación de elección del dataset
 
 <p>
-Para el siguiente proyecto se eligió el dataset: Reporte Mundial de Felicidad. Esto debido a que es una base de datos robusta que contiene información real de aproximadamente 155 países al rededor del mundo.
+Para el siguiente proyecto se eligió el dataset: Reporte Mundial de Felicidad (Singhlo, 2023). Esto debido a que es una base de datos robusta que contiene información real de aproximadamente 155 países al rededor del mundo.
 
 La cual a través de su contenido permite acceder a distintas variables como lo son: el puntaje de felicidad, el PIB per cápita, apoyo social o familia, la esperanza de vida entre otros.
 
-Indicadores que al correlacionarlos contra el puntaje de felicidad pueden brindar información de mucho valor para el desarollo social, político y psicológico de una nación. Lo que lo convierte en un tema de gran interés en la actualidad, en un mundo que presenta un aumento importante en la cantidad de enfermedades mentales (Global Burden of Disease Study, 2025S).
+Indicadores que al correlacionarlos contra el puntaje de felicidad pueden brindar información de mucho valor para el desarollo social, político y psicológico de una nación. Lo que lo convierte en un tema de gran interés en la actualidad, en un mundo que presenta un aumento importante en la cantidad de enfermedades mentales (Global Burden of Disease Study, 2025).
 
 Por lo que además de ser información muy versatil para la elaboración de distintos tipos de visualizaciones, también permite explorar diferentes escenarios y conocer por ejemplo cuáles son los principales indicadores que influyen en la felicidad de las personas, la lista de los paíces más felices e identificar que variable es la que tiene mayor impacto en dichas estadísticas.
 </p>
@@ -61,4 +61,6 @@ Para la ejecución del proyecto final se divide la metodología en x pasos:
 
 #### Bibliografía
 
-Global Burden of Disease Collaborative Network. (2025). Global burden of mental disorders in 204 countries and territories, 1990–2021: results from the Global Burden of Disease Study 2021. BMC Psychiatry, 25, Article — 06932. https://doi.org/10.1186/s12888-025-06932-y
+    Global Burden of Disease Collaborative Network. (2025). Global burden of mental disorders in 204 countries and territories, 1990–2021: results from the Global Burden of Disease Study 2021. BMC Psychiatry, 25, Article — 06932. https://doi.org/10.1186/s12888-025-06932-y
+
+    Singhlo, A. P. (2023). World Happiness Report 2023 [Archivo de datos]. Kaggle. https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023
