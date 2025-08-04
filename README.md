@@ -39,5 +39,4 @@ Pasos para ejecutar el proyecto:
 
 ##Autores
 
-Kianny Pérez Hernández
-Yerlin Vargas
+Kianny Pérez Hernández y Yerlin Vargas
