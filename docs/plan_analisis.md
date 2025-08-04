@@ -61,6 +61,6 @@ Para la ejecución del proyecto final se divide la metodología en x pasos:
 
 #### Bibliografía
 
-    Global Burden of Disease Collaborative Network. (2025). Global burden of mental disorders in 204 countries and territories, 1990–2021: results from the Global Burden of Disease Study 2021. BMC Psychiatry, 25, Article — 06932. https://doi.org/10.1186/s12888-025-06932-y
+Global Burden of Disease Collaborative Network. (2025). Global burden of mental disorders in 204 countries and territories, 1990–2021: results from the Global Burden of Disease Study 2021. BMC Psychiatry, 25, Article — 06932. https://doi.org/10.1186/s12888-025-06932-y
 
-    Singhlo, A. P. (2023). World Happiness Report 2023 [Archivo de datos]. Kaggle. https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023
+Singhlo, A. P. (2023). World Happiness Report 2023 [Archivo de datos]. Kaggle. https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023
