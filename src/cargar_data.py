@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #ruta donde se encuentran los archivos csv
-filenames = glob.glob("/data/*.csv")
+filenames = glob.glob("data/*.csv")
 
 archivos_csv = []
 #se carga cada archivo csv y se almacena en la lista [archivos_csv]
