@@ -2,7 +2,8 @@ import glob
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#ruta donde se encuentran los archivos csv, importante clonar el proyecto en la raiz de la carpeta
+#ruta donde se encuentran los archivos csv, 
+#importante, a la hora de clonar el proyecto que este sea la raíz de la carpeta
 filenames = glob.glob("data/*.csv")
 
 archivos_csv = []
@@ -43,7 +44,7 @@ print("\nPrimeras 10 filas del dataset: ")
 filas = big_frame.head(10)
 print(filas)
 
-#se visualiza por medio de una grafica usando matplotlib la cantidad de países por región
+#se visualiza por medio de una gráfica usando matplotlib la cantidad de países por región
 if 'Region' in big_frame.columns:
     big_frame['Region'].value_counts().plot(kind='bar')
     plt.title("Cantidad de paises por región")

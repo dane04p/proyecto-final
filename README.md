@@ -8,7 +8,7 @@ Este proyecto realiza una exploración inicial y análisis básico de un conjunt
 
 En este primer avance se utilizaron archivos CSV provenientes de una carpeta "archive" que contiene datos relacionados con el World Happiness Report. Estos archivos fueron cargados y concatenados para realizar un análisis conjunto.
 
-Fuente: [World Happiness Report] (https://www.kaggle.com/datasets/unsdsn/world-happiness)
+**Fuente**: [World Happiness Report] (https://www.kaggle.com/datasets/unsdsn/world-happiness)
 
 ## Estructura del Proyecto
 
