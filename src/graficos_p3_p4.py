@@ -1,4 +1,5 @@
 import kaggle  # pip install kaggle (requiere token kaggle.json en C:\Users\TU_USUARIO\.kaggle\)
+#descargar token en https://www.kaggle.com/account
 import zipfile
 import pandas as pd
 import os
