@@ -1,4 +1,6 @@
-import kaggle
+import kaggle #tener instalado kaggle (pip install kaggle) y el 
+# token kaggle.json en C:\Users\TU_USUARIO\.kaggle\. descargar desde 
+# https://www.kaggle.com/datasets/unsdsn/world-happiness
 import zipfile
 import pandas as pd
 import os
