@@ -71,7 +71,7 @@ Pregunta 3 (P3): ¿Puede la percepción de la corrupción de un país tener efec
 Hipótesis nula: La percepción de corrupción no tiene efecto sobre la felicidad de los habitantes.
 Hipótesis alternativa: A mayor percepción de corrupción, menor es la felicidad de los habitantes.
 
-Gráfico 3. Felicidad promedio según niveles de corrupción
+                              Gráfico 3. Felicidad promedio según niveles de corrupción
 <img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/28114810-3adb-472b-ae8b-0bbc887db0ab" />
 
 El análisis de correlación mostró un valor de p ≈ 2.76e-07, menor que 0.05, lo que indica que la relación observada es estadísticamente significativa y poco probable que se deba al azar.
@@ -90,7 +90,8 @@ Pregunta 4 (P4): ¿Cuáles son los países más felices y qué factores explican
 Top 10 de países más felices:
 
 <img width="813" height="525" alt="Figure_2" src="https://github.com/user-attachments/assets/6a17eed6-5770-427d-a65b-a845fce04de9" />
-Figura X. Top 10 de países más felices
+                              Figura X. Top 10 de países más felices
+
 
 Finlandia, Dinamarca y Suiza lideran el ranking, lo que coincide con estudios previos sobre felicidad mundial.
 Este patrón sugiere que sociedades con seguridad económica, baja corrupción y fuertes redes de apoyo social tienden a alcanzar mayores niveles de felicidad.
