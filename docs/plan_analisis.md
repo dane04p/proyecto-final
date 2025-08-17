@@ -53,11 +53,63 @@ Finalmente, se pretende realizar un ***mapa geográfico*** donde a través de la
 
 #### Metodología.
 
-Para la ejecución del proyecto final se divide la metodología en x pasos:
+Para la ejecución del proyecto final se divide la metodología en 4 pasos:
 - Descarga y análisis de los datos: Se creará un código en Python que permita al usuario descargar, limpiar y realizar una exploración rápida de los tipos de datos y comportamiento de las variables.
 - Desarrollo de hipótesis: A partir de la información encontrada se determinarán las preguntas que se desean responder y se plantearán las hipótesis iniciales sobre las cuales basar el análisis.
 - Elaboración de visualizaciones: Se probará si las visualizaciones planteadas brindan los resultados esperados por medio de la utilización de distintas librerias como Pandas, Matplotlib, Folium, etc.  Se agregará un análisis de cada uno de los gráficos y mapas elaborados.
 - Conclusiones: A partir de los resultados obtenidos se concluirá si las hipótesis planteadas se cumplen o no se cumplen y se responderá con base en los gráficos y mapas las preguntas elaboradas.
+
+#### Descarga y análisis de datos 
+
+Se implementó un conjunto de funciones en Python para descargar, organizar y preparar el dataset del World Happiness Report. Se crearon las carpetas necesarias para almacenar los archivos, luego, por medio del API de Kaggle se descargó el dataset de interés, se realizó un análisis general de los datos. Seguidamente, se cargó el archivo, identificando automáticamente las columnas con la información necasaria para responder las preguntas e hipótesis planteadas. Se realizaron las visualizaciones correspondientes permitiendo el análisis de los datos y la generación de conclusiones. 
+
+#### Análisis de resultados
+Pregunta 1 (P1):
+Pregunta 2 (P2):
+
+Pregunta 3 (P3): ¿Puede la percepción de la corrupción de un país tener efectos negativos en la felicidad de sus habitantes?
+Hipótesis nula: La percepción de corrupción no tiene efecto sobre la felicidad de los habitantes.
+Hipótesis alternativa: A mayor percepción de corrupción, menor es la felicidad de los habitantes.
+
+Gráfico 3. Felicidad promedio según niveles de corrupción
+<img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/28114810-3adb-472b-ae8b-0bbc887db0ab" />
+
+El análisis de correlación mostró un valor de p ≈ 2.76e-07, menor que 0.05, lo que indica que la relación observada es estadísticamente significativa y poco probable que se deba al azar.
+
+El coeficiente de correlación de r ≈ -0.395 revela una relación negativa de magnitud moderada, lo que significa que a medida que aumenta la percepción de corrupción, disminuye el puntaje de felicidad promedio de los países.
+
+La tendencia se mantiene incluso considerando la variación entre diferentes cuartiles de felicidad, confirmando que el efecto no es aislado de ciertos grupos de países.
+
+##### Conclusión P3:
+Se rechaaza la hipotesis nula ya que los resultados respaldan la hipótesis alternativa. La percepción de corrupción tiene
+un impacto negativo en la felicidad de los habitantes, siendo un factor relevante para el bienestar social y económico de 
+los países.
+
+Pregunta 4 (P4): ¿Cuáles son los países más felices y qué factores explican esa felicidad?
+
+Top 10 de países más felices:
+
+<img width="813" height="525" alt="Figure_2" src="https://github.com/user-attachments/assets/6a17eed6-5770-427d-a65b-a845fce04de9" />
+Figura X. Top 10 de países más felices
+
+Finlandia, Dinamarca y Suiza lideran el ranking, lo que coincide con estudios previos sobre felicidad mundial.
+Este patrón sugiere que sociedades con seguridad económica, baja corrupción y fuertes redes de apoyo social tienden a alcanzar mayores niveles de felicidad.
+
+Factores con mayor influencia:
+Según el análisis de correlación entre variables del World Happiness Report:
+
+- PIB per cápita: Principal determinante de la felicidad, vinculado a recursos materiales, oportunidades económicas y estabilidad financiera.
+
+- Esperanza de vida / salud: La calidad del sistema de salud y la longevidad influyen directamente en el bienestar.
+
+- Apoyo social: Redes familiares y comunitarias fuertes incrementan la felicidad.
+
+- Otros factores: Libertad individual y generosidad muestran relación positiva, aunque su efecto es menor en comparación con los anteriores.
+
+##### Conclusión P4:
+
+La felicidad en los países no depende únicamente de factores económicos, sino también de la calidad social y salud pública.
+La combinación de recursos económicos, baja corrupción y redes de apoyo social constituye un patrón que explica por qué los países nórdicos se posicionan consistentemente en los primeros lugares del ranking de felicidad.
 
 #### Bibliografía.
 
