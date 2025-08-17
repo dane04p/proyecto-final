@@ -69,16 +69,14 @@ Pregunta 2 (P2):
 
 Pregunta 3 (P3): ¿Puede la percepción de la corrupción de un país tener efectos negativos en la felicidad de sus habitantes?
 
-Hipótesis nula: La percepción de corrupción no tiene efecto sobre la felicidad de los habitantes.
-
-Hipótesis alternativa: A mayor percepción de corrupción, menor es la felicidad de los habitantes.
-
+Se realizó una correlación de Pearson para identificar si existe una correalción estadisticamente significativa que demuestre
+que los niveles de corrupción tienen un efecto negativo en la felicidad de los habitantes de los países. 
 
                               Gráfico 3. Felicidad promedio según niveles de corrupción
 <img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/28114810-3adb-472b-ae8b-0bbc887db0ab" />
 
 
-El análisis de correlación mostró un valor de p ≈ 2.76e-07, menor que 0.05, lo que indica que la relación observada es estadísticamente significativa y poco probable que se deba al azar.
+Dicho análisis de correlación mostró un valor de p ≈ 2.76e-07, menor que 0.05, lo que indica que la relación observada es estadísticamente significativa y poco probable que se deba al azar.
 
 El coeficiente de correlación de r ≈ -0.395 revela una relación negativa de magnitud moderada, lo que significa que a medida que aumenta la percepción de corrupción, disminuye el puntaje de felicidad promedio de los países.
 
