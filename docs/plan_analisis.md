@@ -87,16 +87,23 @@ los países.
 
 Pregunta 4 (P4): ¿Cuáles son los países más felices y qué factores explican esa felicidad?
 
-Top 10 de países más felices:
+Para conocer los países con mayor rango de felicidad se agregó una línea de código que muestra el top 10 de estos países, que se muestran a continuacuón:
 
 <img width="813" height="525" alt="Figure_2" src="https://github.com/user-attachments/assets/6a17eed6-5770-427d-a65b-a845fce04de9" />
                               Figura X. Top 10 de países más felices
 
-
+<img width="1256" height="596" alt="Figure_3" src="https://github.com/user-attachments/assets/420294d8-109f-4d6e-a31e-691f010e5e1c" />
+                   Figura X. Mapa de distribución de países según rango de felicidad
+                   
 Finlandia, Dinamarca y Suiza lideran el ranking, lo que coincide con estudios previos sobre felicidad mundial.
 Este patrón sugiere que sociedades con seguridad económica, baja corrupción y fuertes redes de apoyo social tienden a alcanzar mayores niveles de felicidad.
 
 Factores con mayor influencia:
+Para identificar los factores que tienen una mayor influencia en la felicidad de los países se realizó el gráfico que se muestra a continuación.
+
+<img width="1256" height="596" alt="Figure_4" src="https://github.com/user-attachments/assets/6419b1ad-ce84-4ffd-b527-b1ddfe01e1c5" />
+                  Figura X. Gráfico araña de los factores que influyen en la felicidad de los países
+                  
 Según el análisis de correlación entre variables del World Happiness Report:
 
 - PIB per cápita: Principal determinante de la felicidad, vinculado a recursos materiales, oportunidades económicas y estabilidad financiera.
