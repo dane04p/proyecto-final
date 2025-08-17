@@ -83,7 +83,7 @@ El coeficiente de correlación de r ≈ -0.395 revela una relación negativa de 
 La tendencia se mantiene incluso considerando la variación entre diferentes cuartiles de felicidad, confirmando que el efecto no es aislado de ciertos grupos de países.
 
 ##### Conclusión P3:
-Se rechaaza la hipotesis nula ya que los resultados respaldan la hipótesis alternativa. La percepción de corrupción tiene
+Se acepta la hipótesis planteada, ya que los resltados respaldan el hecho de que la percepción de corrupción tiene
 un impacto negativo en la felicidad de los habitantes, siendo un factor relevante para el bienestar social y económico de 
 los países.
 
@@ -121,7 +121,7 @@ Como se puede observar en la Figura X el PIB per carpita es el que muestra valor
 
 ##### Conclusión P4:
 
-Se acepta la hipótesis alternativa que indica que los países con mayor felicidad son los que tienen un mayor valor de PIB per capita. No obstante, la felicidad en los países no depende únicamente de factores económicos, sino también de la calidad social y salud pública.
+Se acepta la hipótesis planteada, la cual indica que los países con mayor felicidad son los que tienen un mayor valor de PIB per capita. No obstante, la felicidad en los países no depende únicamente de factores económicos, sino también de la calidad social y salud pública.
 La combinación de recursos económicos, baja corrupción y redes de apoyo social constituye un patrón que explica por qué los países nórdicos se posicionan consistentemente en los primeros lugares del ranking de felicidad.
 
 #### Bibliografía.
