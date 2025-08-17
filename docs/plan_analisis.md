@@ -68,11 +68,14 @@ Pregunta 1 (P1):
 Pregunta 2 (P2):
 
 Pregunta 3 (P3): ¿Puede la percepción de la corrupción de un país tener efectos negativos en la felicidad de sus habitantes?
+
 Hipótesis nula: La percepción de corrupción no tiene efecto sobre la felicidad de los habitantes.
 Hipótesis alternativa: A mayor percepción de corrupción, menor es la felicidad de los habitantes.
 
+
                               Gráfico 3. Felicidad promedio según niveles de corrupción
 <img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/28114810-3adb-472b-ae8b-0bbc887db0ab" />
+
 
 El análisis de correlación mostró un valor de p ≈ 2.76e-07, menor que 0.05, lo que indica que la relación observada es estadísticamente significativa y poco probable que se deba al azar.
 
@@ -85,21 +88,23 @@ Se rechaaza la hipotesis nula ya que los resultados respaldan la hipótesis alte
 un impacto negativo en la felicidad de los habitantes, siendo un factor relevante para el bienestar social y económico de 
 los países.
 
-Pregunta 4 (P4): ¿Cuáles son los países más felices y qué factores explican esa felicidad?
 
+Pregunta 4 (P4): ¿Cuáles son los países más felices y qué factores explican esa felicidad?
 Para conocer los países con mayor rango de felicidad se agregó una línea de código que muestra el top 10 de estos países, que se muestran a continuacuón:
 
 <img width="813" height="525" alt="Figure_2" src="https://github.com/user-attachments/assets/6a17eed6-5770-427d-a65b-a845fce04de9" />
                               Figura X. Top 10 de países más felices
 
+
 <img width="1256" height="596" alt="Figure_3" src="https://github.com/user-attachments/assets/420294d8-109f-4d6e-a31e-691f010e5e1c" />
                    Figura X. Mapa de distribución de países según rango de felicidad
+
                    
 Finlandia, Dinamarca y Suiza lideran el ranking, lo que coincide con estudios previos sobre felicidad mundial.
 Este patrón sugiere que sociedades con seguridad económica, baja corrupción y fuertes redes de apoyo social tienden a alcanzar mayores niveles de felicidad.
 
-Factores con mayor influencia:
-Para identificar los factores que tienen una mayor influencia en la felicidad de los países se realizó el gráfico que se muestra a continuación.
+
+Factores con mayor influencia: Para identificar los factores que tienen una mayor influencia en la felicidad de los países se realizó el gráfico que se muestra a continuación.
 
 <img width="1256" height="596" alt="Figure_4" src="https://github.com/user-attachments/assets/6419b1ad-ce84-4ffd-b527-b1ddfe01e1c5" />
                   Figura X. Gráfico araña de los factores que influyen en la felicidad de los países
