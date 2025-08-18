@@ -64,8 +64,19 @@ Para la ejecución del proyecto final se divide la metodología en 4 pasos:
 Se implementó un conjunto de funciones en Python para descargar, organizar y preparar el dataset del World Happiness Report. Se crearon las carpetas necesarias para almacenar los archivos, luego, por medio del API de Kaggle se descargó el dataset de interés, se realizó un análisis general de los datos. Seguidamente, se cargó el archivo, identificando automáticamente las columnas con la información necasaria para responder las preguntas e hipótesis planteadas. Se realizaron las visualizaciones correspondientes permitiendo el análisis de los datos y la generación de conclusiones. 
 
 #### Análisis de resultados
-Pregunta 1 (P1):
-Pregunta 2 (P2):
+Pregunta 1 (P1): ¿Cuáles son los principales factores que explican la felicidad en los países analizados?
+
+El análisis de correlación de las variables con el puntaje de felicidad muestra que los tres factores más influyentes son:
+PIB per cápita → refleja la importancia de los recursos materiales y la estabilidad económica.
+Esperanza de vida / salud → evidencia el impacto de la salud en el bienestar.
+Apoyo social → subraya la relevancia de las redes comunitarias y familiares.
+Estos factores presentan correlaciones positivas y significativas, confirmando su papel central en la determinación de la felicidad de los países.
+Visualización asociada: Gráfico de barras con las tres variables más correlacionadas con la felicidad (analizar_factores).
+
+Pregunta 2 (P2): ¿Qué tendencias se observan en la evolución de la felicidad a lo largo del tiempo?
+
+El análisis de la felicidad promedio entre 2015 y 2019 muestra una tendencia relativamente estable, con ligeros aumentos en algunos años. Esto indica que, a pesar de variaciones locales, la felicidad global ha permanecido constante en el período analizado.
+Visualización asociada: Gráfico de línea mostrando la evolución de la felicidad promedio por año (analizar_tendencias).
 
 Pregunta 3 (P3): ¿Puede la percepción de la corrupción de un país tener efectos negativos en la felicidad de sus habitantes?
 
