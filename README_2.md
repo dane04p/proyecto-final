@@ -78,10 +78,3 @@ Radar interactivo: factores que más influyen en la felicidad y el factor princi
 
 ### Autores
 Kianny Pérez Hernández y Yerlin Vargas Solano
-
-
-Librerías faltantes:
-Asegúrese de tener instaladas las librerías pandas, numpy, matplotlib, plotly, scipy y kaggle.
-
-Permisos al mover archivos:
-Ejecute Python con los permisos adecuados o cambie la carpeta de trabajo si es necesario.
