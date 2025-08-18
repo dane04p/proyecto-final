@@ -73,10 +73,16 @@ Apoyo social → subraya la relevancia de las redes comunitarias y familiares.
 Estos factores presentan correlaciones positivas y significativas, confirmando su papel central en la determinación de la felicidad de los países.
 Visualización asociada: Gráfico de barras con las tres variables más correlacionadas con la felicidad (analizar_factores).
 
+##### Conclusión P1:
+La hipótesis planteaba que ciertos factores económicos, de salud y sociales influyen significativamente en la felicidad de los países. Los resultados confirman esta hipótesis: el PIB per cápita, la esperanza de vida / salud y el apoyo social muestran las correlaciones más altas con la felicidad. Esto indica que tanto los recursos materiales como el bienestar físico y la calidad de las relaciones sociales son determinantes clave del nivel de felicidad de una población.
+
 Pregunta 2 (P2): ¿Qué tendencias se observan en la evolución de la felicidad a lo largo del tiempo?
 
 El análisis de la felicidad promedio entre 2015 y 2019 muestra una tendencia relativamente estable, con ligeros aumentos en algunos años. Esto indica que, a pesar de variaciones locales, la felicidad global ha permanecido constante en el período analizado.
 Visualización asociada: Gráfico de línea mostrando la evolución de la felicidad promedio por año (analizar_tendencias).
+
+##### Conclusión P2:
+La hipótesis sugería que la felicidad promedio global podría variar significativamente entre 2015 y 2019. Los datos muestran que la felicidad se mantiene relativamente estable, con ligeros incrementos en algunos años. Esto respalda parcialmente la hipótesis, indicando que, si bien existen variaciones locales, la tendencia general de la felicidad global es constante durante el período analizado.
 
 Pregunta 3 (P3): ¿Puede la percepción de la corrupción de un país tener efectos negativos en la felicidad de sus habitantes?
 
