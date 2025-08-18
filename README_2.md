@@ -1,30 +1,32 @@
-## Análisis de Felicidad y Corrupción (World Happiness Report)
+## Análisis de Reporte Mundial de Felicidad (World Happiness Report).
+### Descripción del Proyecto
+Este script automatiza el análisis del World Happiness Report al descargar y organizar los datos desde Kaggle, explorar sus características principales y desarrollar un estudio sobre la relación entre corrupción y felicidad en los países. Asimismo, identifica a las naciones más felices, determina los tres principales factores que influyen en el puntaje de felicidad (PIB per cápita, esperanza de vida y apoyo social) y analiza si existe una relación directa entre un mayor puntaje de felicidad y una mayor esperanza de vida, apoyándose en visualizaciones y métricas estadísticas. 
 
-Este script descarga y analiza automáticamente el World Happiness Report, mostrando cómo la percepción de corrupción afecta la felicidad de 
-los países y cuáles factores influyen más en ella.
+### Dataset Seleccionado
+El dataset seleccionado es el World Happiness Report, que reúne información de más de 150 países sobre bienestar y calidad de vida. Incluye variables como Happiness Score (puntaje de felicidad), GDP per capita (PIB per cápita), Healthy life expectancy (esperanza de vida saludable), Social support (apoyo social), Freedom (libertad de decisión), Generosity y Perceptions of corruption, lo que permite identificar los principales factores asociados a la felicidad.
 
-### 1. Requisitos
+Fuente: [World Happiness Report] (https://www.kaggle.com/datasets/unsdsn/world-happiness)
+
+Estructura del Proyecto
+proyecto-final/
+
+├── data/ │ ├── world_hapiness/ │ ├── 2015.csv │ ├── 2016.csv │ ├── 2017.csv │ ├── 2018.csv │ └── 2019.csv ├── src/ │ └── codigo.py ├── docs/ │ └── plan_analisis.md ├── README.md
+
+## Instruccines de Ejecución
+Antes de ejecutar el proyecto:
+
+Importante: Se recomienda abrir el proyecto-final como raíz del proyecto. Si no se hace así, el código podría no ejecutarse correctamente debido a problemas con las rutas relativas.
+
+Pasos para ejecutar el proyecto:
 
 Tener Python 3.10 o superior instalado.
-
 Descargar su token de Kaggle (kaggle.json) desde Kaggle y colocarlo en la siguiente ruta:
-
 C:\Users\<SU_USUARIO>\.kaggle\kaggle.json
+Instalar las librerías necesarias: pip install pandas numpy matplotlib plotly kaggle scipy
+PAra ejecutar el script abra la terminal o PowerShell en la carpeta donde se encuentra el script.
+Ejecute: python nombre_del_script.py
 
-
-Instalar las librerías necesarias:
-
-pip install pandas numpy matplotlib plotly kaggle scipy
-
-### 2. Ejecución
-
-Abra la terminal o PowerShell en la carpeta donde se encuentra el script.
-
-Ejecute:
-
-python nombre_del_script.py
-
-### 3. Funcionalidades del script
+### Funcionalidades del script
 
 - Descarga y preparación del dataset desde Kaggle.
 
@@ -54,18 +56,17 @@ python nombre_del_script.py
 
 - Indica cuál es el factor que más influye en la felicidad.
 
-### 4. Estructura de carpetas
+### Estructura de carpetas
 
 El script crea automáticamente la siguiente estructura:
 
 <carpeta_padre_del_script>/data/world_happiness/
 
-
 data/ → Carpeta general para los datos.
 
 world_happiness/ → Carpeta donde se guardará el CSV del dataset.
 
-### 5. Resultados esperados
+### Resultados esperados
 
 Gráfico de barras: felicidad promedio según cuartiles de corrupción.
 
@@ -75,10 +76,9 @@ Mapa interactivo: felicidad por país.
 
 Radar interactivo: factores que más influyen en la felicidad y el factor principal.
 
-### 6. Problemas comunes y soluciones
+### Autores
+Kianny Pérez Hernández y Yerlin Vargas Solano
 
-Error FileNotFoundError de Kaggle:
-Verifique que el archivo kaggle.json esté en la ruta correcta y que la API de Kaggle esté configurada correctamente.
 
 Librerías faltantes:
 Asegúrese de tener instaladas las librerías pandas, numpy, matplotlib, plotly, scipy y kaggle.
